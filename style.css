@@ -7,12 +7,12 @@ font-family: myfont;
 
 @font-face {
     font-family: myfont;
-    src: url(Font/GD-Boing-Bold.ttf);
+    src: url(GD-Boing-Bold.ttf);
 }
 
 @font-face {
     font-family: myfont2;
-    src: url(Font/Graphik-Light-Trial.otf);
+    src: url(Graphik-Light-Trial.otf);
  
 }
 
